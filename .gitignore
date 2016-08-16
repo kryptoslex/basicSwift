@@ -4,3 +4,4 @@ xcuserdata/
 Pods/
 Carthage/
 Podfile.lock
+*.xcuserstate
